@@ -13,3 +13,6 @@ From version 10 roll time can be set from Domoticz directly using Heating setpoi
 
 UPDATE:
 FROM version 12: FIX save and load state from EEPROM !!!
+
+UPDATE:
+FROM version 15: separate time setpoint for UP and DOWN -> Rollershutters mostly go faster Down, but slower Up
